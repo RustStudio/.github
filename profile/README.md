@@ -30,5 +30,13 @@ The contribution should be the form of a template or example, and simple instruc
 
 The contributors are responsible to maintain the template if needed (such as upgrading dependencies) but the community are encouraged to raise any issues to aid the process.
 
+# Repository health
+| Repository name  | Build | Test | Format |
+| ------------- | ------------- | ------------- | ------------- |
+| `bevy_rest_api`  | ![Cargo build](https://github.com/RustStudio/bevy_rest_api/actions/workflows/build.yaml/badge.svg)   | ![Cargo test](https://github.com/RustStudio/bevy_rest_api/actions/workflows/test.yaml/badge.svg)  | ![Cargo format](https://github.com/RustStudio/bevy_rest_api/actions/workflows/format.yaml/badge.svg)  |
+| `bevy_zenoh`  | ![Cargo build](https://github.com/RustStudio/bevy_zenoh/actions/workflows/build.yaml/badge.svg)   | ![Cargo test](https://github.com/RustStudio/bevy_zenoh/actions/workflows/test.yaml/badge.svg)  | ![Cargo format](https://github.com/RustStudio/bevy_zenoh/actions/workflows/format.yaml/badge.svg)  |
+| `opcua_server`  | ![Cargo build](https://github.com/RustStudio/opcua_server/actions/workflows/build.yaml/badge.svg)   | ![Cargo test](https://github.com/RustStudio/opcua_server/actions/workflows/test.yaml/badge.svg)  | ![Cargo format](https://github.com/RustStudio/opcua_server/actions/workflows/format.yaml/badge.svg)  |
+| `rest_api`  | ![Cargo build](https://github.com/RustStudio/rest_api/actions/workflows/build.yaml/badge.svg)   | ![Cargo test](https://github.com/RustStudio/rest_api/actions/workflows/test.yaml/badge.svg)  | ![Cargo format](https://github.com/RustStudio/rest_api/actions/workflows/format.yaml/badge.svg)  |
+
 # Wall of contributors
 Tan Jun Kiat
